@@ -7,5 +7,5 @@
 - Пишу на JavaScript (TypeScript), Java.
 - На этом аккаунте нет годных открытых репозиториев.
 
-![](https://github-readme-stats.vercel.app/api?username=kdevmc&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdevmc&theme=dark&langs_count=10&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=fiwka&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiwka&theme=dark&langs_count=10&layout=compact&hide_border=true)
